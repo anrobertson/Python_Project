@@ -23,10 +23,10 @@ When working on the unassigned accounts, I noticed a pattern of which unassigned
 
 ### Creating the mock data
 To execute this project, I wanted to replicate the data I see as closely as possible. From the original data I had used the same headers but anything within those columns is completely fictional. 
-I used the Faker Library in Python to generate a large amount of mock data (50,000 rows of data). If you would like to see the code scripted to create the mock data, [please click here!](https://github.com/anrobertson/Python_Project/blob/main/Creation%20of%20Mock%20Data.ipynb)
+I used the Faker Library in Python to generate a large amount of mock data (50,000 rows of data). If you would like to see the code scripted to create the mock data, [please click here to be directed to the "Creation of Mock Data.ipynb".](https://github.com/anrobertson/Python_Project/blob/main/Creation%20of%20Mock%20Data.ipynb)
 
 ### Utilizing the mock data for research
-My goal was to create something that would be easy for someone both inside and outside of the team to understand. I imported the dependencies needed to create the graphs then loaded the CSV file with the mock data to create the a bar graph with correlating line graphs.
+My goal was to create something that would be easy for someone both inside and outside of the team to understand. I imported the dependencies needed to create the graphs then loaded the CSV file with the mock data to create the a bar graph with correlating line graphs. If you would like to view the code scripted for the analysis, [please click here to be directed to the "Transfer_Data.ipynb".](https://github.com/anrobertson/Python_Project/blob/main/Transfer_Data.ipynb)
 <br></br>
 <br>**The first step was to analyze the unassigned accounts.**</br>
 <br>![](graphs/unknowns.jpg)</br>
@@ -35,7 +35,12 @@ My goal was to create something that would be easy for someone both inside and o
 <br>**Next step was to break down each company and pull out the quantity of pallets they had sent out that had been flagged as "unknown".**</br>
 <br></br>
 <br>![](graphs/quantity.jpg)</br>
-<br>When broken down a little further the data shows that Chiquota, Proctor & Deal and Del Marte remained at the top of our list; however, Walsmart ended up having more unknown pallets shipped than both Folders and Costgo. It is important to remember that breaking down data like this is important as it provides clarity and allow us to make more accurate and strategic choices.</br>
+<br>When broken down a little further the data shows that Chiquota, Proctor & Deal and Del Marte remained at the top of our list; however, Walsmart ended up having more unknown pallets shipped than both Folders and Costgo.</br>
+
+<br>**The final analysis I wanted to look into was the amount of transfers listed as unknown on a monthly basis**</br>
+<br><img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_chiquota.jpg" width="450"> <img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_del.JPG" align="right" width="450"></br>
+<br><img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_wal.JPG" width="450"> <img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_proc.JPG" align="right" width="450"></br>
+<br>Viewing this can open up the conversation of when a spike of unknown transfers may have occured and why they may have been overlooked.</br>
 
 ## Summary
-For the purpose of this analysis, I wanted to show 
+ 
