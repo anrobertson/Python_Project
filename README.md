@@ -38,8 +38,8 @@ My goal was to create something that would be easy for someone both inside and o
 <br>When broken down a little further the data shows that Chiquota, Proctor & Deal and Del Marte remained at the top of our list; however, Walsmart ended up having more unknown pallets shipped than both Folders and Costgo.</br>
 
 <br>**The final analysis I wanted to look into was the amount of transfers listed as unknown on a monthly basis**</br>
-<br><img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_chiquota.jpg" width="450"> <img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_del.JPG" align="right" width="450"></br>
-<br><img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_wal.JPG" width="450"> <img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_proc.JPG" align="right" width="450"></br>
+<br><img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_chiquota.jpg" width="450"> <img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_del.JPG" width="450"></br>
+<br><img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_wal.JPG" width="450"> <img src="https://github.com/anrobertson/Python_Project/blob/main/graphs/mtr_proc.JPG" width="450"></br>
 <br>Viewing this can open up the conversation of when a spike of unknown transfers may have occured and why they may have been overlooked.</br>
 
 ## Summary
