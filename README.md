@@ -43,4 +43,4 @@ My goal was to create something that would be easy for someone both inside and o
 <br>Viewing this can open up the conversation of when a spike of unknown transfers may have occured and why they may have been overlooked.</br>
 
 ## Summary
- 
+Even though this is a small example of what Python can do, I believe that there is a lot of potential with utilizing this tool. Python's flexibility, extensive libraries, and machine learning capabilities make it a valuable tool for account health monitoring and improvement. By leveraging data-driven insights and automation, we can proactively address account-related issues, enhance customer satisfaction, and optimize business outcomes.
