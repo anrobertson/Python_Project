@@ -30,11 +30,12 @@ My goal was to create something that would be easy for someone both inside and o
 <br></br>
 <br>**The first step was to analyze the unassigned accounts.**</br>
 <br>![](graphs/unknowns.jpg)</br>
-<br></br>
 <br>When analyzing the data we can see that Chiquota, Proctor & Deal, Del Marte and Folders had the most amount of "unknown" transfers this year so far. This had raised another question: how many pallets were flagged as unknown for each company?</br>
 <br></br>
 <br>**Next step was to break down each company and pull out the quantity of pallets they had sent out that had been flagged as "unknown".**</br>
 <br></br>
+<br>![](graphs/quantity.jpg)</br>
+<br>When broken down a little further the data shows that Chiquota, Proctor & Deal and Del Marte remained at the top of our list; however, Walsmart ended up having more unknown pallets shipped than both Folders and Costgo. It is important to remember that breaking down data like this is important as it provides clarity and allow us to make more accurate and strategic choices.</br>
 
 ## Summary
 For the purpose of this analysis, I wanted to show 
