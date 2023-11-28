@@ -16,10 +16,10 @@ Created mock data of "Unknown" transfers of unassigned accounts to show the pote
 Before starting to create the mock data for this project, I wanted to think of a good example of when utilizing Python could help us answer questions we may have about the business and even open up more conversations of ways to improve in different areas.
 When working on the unassigned accounts, I noticed a pattern of which unassigned accounts appeared on the unknown list more frequently then others. 
 <br>Through these patterns I had the questions of:</br> 
-* What unassigned accounts should we evaluate and possibly assign an account executive?
+* What unassigned accounts should we evaluate and possibly be in touch with for the time being?
 * For each unassigned account, how many pallets did they ship out that were considered "unknown"?
 * How many unknown transfers have they had each month?
-* What other actions can the business take so that these unassigned accounts get the attention they need?
+* What actions can we take so we can provide help to these unassigned accounts?
 
 ### Creating the mock data
 To execute this project, I wanted to replicate the data I see as closely as possible. From the original data I had used the same headers but anything within those columns is completely fictional. 
